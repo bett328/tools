@@ -2,13 +2,12 @@
 
 
 Tools for Analysis
-Cohort Analysis Project
-Welcome to the Cohort Analysis project repository! In this project, I have conducted a detailed cohort analysis to understand user behavior and trends over time.
+Welcome to the Tools for Analysis project repository! In this project, I have conducted a detailed cohort analysis to understand user behavior and trends over time.
 
 Project Overview
 Cohort analysis is a powerful technique used in data analysis to understand user behavior and performance metrics based on their interaction with a product or service. By organizing users into cohorts based on a common characteristic or time period, we can gain insights into how different groups of users behave and evolve over time.
 
-Project Highlights
+Project Highlights - Cohort analysis:
 Data Preprocessing: The data underwent preprocessing steps such as date extraction and cohort assignment to categorize users into their respective cohorts.
 Cohort Matrix Creation: Using the cohort information, I constructed matrices to visualize retention rates and purchase behaviors over time.
 Heatmap Visualization: The retention and purchase matrices were visualized using heatmaps to easily spot trends and patterns.
